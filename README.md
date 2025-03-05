@@ -2,4 +2,4 @@
 
 Oier，CVer，NLPer，Mather，Ruster.
 
-最近在研究模型量化和LLM落地（QWen2.5），求导师捞我。
+饱受 抽象代数 高等概率论 实变函数 蹂躏
