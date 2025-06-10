@@ -2,6 +2,8 @@
 
 Oier，CVer，NLPer，Mather，Ruster.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futz12)](https://github.com/anuraghazra/github-readme-stats)
+
 正在开发：
 
 NBCapture： 全平台，多功能截图软件
