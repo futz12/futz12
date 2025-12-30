@@ -7,7 +7,7 @@ Oier，CVer，NLPer，Mather，Ruster.
 
 正在开发：
 
-NBCapture： 全平台，多功能截图软件
+Intellicap： 全平台，多功能截图软件
 
 libmatch： 若干视觉算法的集
 
