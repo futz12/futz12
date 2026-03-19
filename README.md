@@ -22,6 +22,4 @@ C/C++ Cuda Python Rust Matlab Lua GLSL
 常用框架：
 pytorch ncnn mnn ggml opencv qt win32 fastapi tokio
 
-23级山东大学数学学院强基计划本科生，目标转段到AI方向
-
 接 **ncnn模型转换** **视觉算法** 赚赚零花钱
