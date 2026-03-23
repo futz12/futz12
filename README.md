@@ -7,14 +7,12 @@ Oier，CVer，NLPer，Mather，Ruster.
 
 正在开发：
 
-Intellicap： 全平台，多功能截图软件
+Intellicap: HDR 10Bit色深专业AI赋能截图软件
 
-libmatch： 若干视觉算法的集
+libmatch: 若干视觉算法的集
 
-simple fft： 简易的fft/cft 库
-
-simple rtsp： 简易的rtsp服务器
-
+ncnn_llm: 基于ncnn的大语言模型推理框架
+>会有的，都会有的，Int8会有的，Int4也会有的
 
 常用编程语言：
 C/C++ Cuda Python Rust Matlab Lua GLSL
