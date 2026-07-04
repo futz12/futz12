@@ -20,4 +20,4 @@ C/C++ Cuda Python Rust Matlab Lua GLSL
 常用框架：
 pytorch ncnn mnn ggml opencv qt win32 fastapi tokio
 
-接 **ncnn模型转换** **视觉算法** 赚赚零花钱
+祈祷期末考试正常通过
