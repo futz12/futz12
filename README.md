@@ -2,8 +2,7 @@
 
 Oier，CVer，NLPer，Mather，Ruster.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futz12)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futz12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Roast](https://ghfind.com/api/card/futz12?theme=dark&variant=path)](https://ghfind.com/u/futz12?ref=badge)
 
 正在开发：
 
