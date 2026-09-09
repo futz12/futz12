@@ -19,4 +19,4 @@ C/C++ Cuda Python Rust Matlab Lua GLSL
 常用框架：
 pytorch ncnn mnn ggml opencv qt win32 fastapi tokio
 
-祈祷期末考试正常通过
+研0备战第一篇CCF-A中
